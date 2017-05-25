@@ -6,4 +6,8 @@ public class HitungLuas {
     public static int cariLuasPersegiPanjang(int panjang, int lebar){
         return panjang*lebar;
     }
+
+    public static int cariLuasLingkaran(int r){
+      return 3.14*(r*r);
+    }
 }
